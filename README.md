@@ -1,2 +1,2 @@
-# Verilog-Sequential-codes
+# Verilog-Sequential-codes  //counters
 Behavioral leval abstraction                                                                   
